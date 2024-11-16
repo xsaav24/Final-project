@@ -61,3 +61,8 @@ git commit -m "raw chromosome 38 data commit"
 git remote add origin https://github.com/xsaav24/Final-project.git
 git push -u origin master
 ```
+Keeping in mind the purpose behind the ninth lab assignment of this semester, it was necessary to download MAFFT:
+
+```
+singularity pull --dir $(pwd) mafft.sif https://depot.galaxyproject.org/singularity/mafft:7.525--h031d066_1
+```
