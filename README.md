@@ -50,3 +50,14 @@ grep "chromosome 38" dog.unwrap.fna --after-context=1 > dog.chromosome38.fna
 ```
 
 _Note: The "--after-context=1" addition to the "grep" command was necessary to include the sequence into the output files. Without it, the "grep" search would have only included the header that precedes the sequence itself._
+
+After creating the initial branch and README.md file, the following list of commands was utilized to commit the new files to the repo:
+
+```
+git init
+git add dingo.chromosome38.fna
+git add dog.chromosome38.fna
+git commit -m "raw chromosome 38 data commit"
+git remote add origin https://github.com/xsaav24/Final-project.git
+git push -u origin master
+```
