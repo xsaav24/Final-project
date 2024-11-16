@@ -37,3 +37,16 @@ It was uncertain whether the unzipped files were wrapped--that is, whether the s
 awk '{if(NR==1) {print $0} else {if($0 ~ /^>/) {print "\n"$0} else {printf $0}}}' GCF_003254725.2_ASM325472v2_genomic.fna > dingo.unwrap.fna # dingo unwrap
 awk '{if(NR==1) {print $0} else {if($0 ~ /^>/) {print "\n"$0} else {printf $0}}}' GCF_011100685.1_UU_Cfam_GSD_1.0_genomic.fna > dog.unwrap.fna # dog unwrap
 ```
+
+Confirming unwrapped files:
+
+![image](https://github.com/user-attachments/assets/426e4f31-544d-4cd5-9886-54be5276efe4)
+
+The unwrapped files contained the entire genomes of both canid species, but the goal was to compare only the thirty-eighth chromosomes of the dingo and dog to each other. The "grep" function was helpful in finding only the necessary part of the genomes:
+
+```
+grep "chromosome 38" dingo.unwrap.fna --after-context=1 > dingo.chromosome38.fna
+grep "chromosome 38" dog.unwrap.fna --after-context=1 > dog.chromosome38.fna
+```
+
+_Note: The "--after-context=1" addition to the "grep" command was necessary to include the sequence into the output files. Without it, the "grep" search would have only included the header that precedes the sequence itself._
