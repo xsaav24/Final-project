@@ -79,7 +79,28 @@ dingo.c38sample.fna
 dog.c38sample.fna
 ```
 
-Both files were pushed into the GitHub repo. Recalling the step of combining the sequences of different species (or subspecies in this case here) into one file from the ninth lab, both sampled sequences and their headers were combined into one document "combined.c38samples.fna". This document was formed by using the "cat" function on the two separate files and then "nano" to paste the sequences into a new file, which was pushed into the repository.
+Both files were pushed into the GitHub repo. 
+
+```
+git add dingo.c38sample.fna
+git add dog.c38sample.fna
+git commit -m "sampled C38 data commit"
+git push -u origin master
+```
+
+Recalling the step of combining the sequences of different species (or subspecies in this case here) into one file from the ninth lab, both sampled sequences and their headers were combined into one document called "combined.c38samples.fna". This document was formed by using the "cat" function on the two separate files and then "nano" to paste the sequences into a new file, which was pushed into the repository.
+
+```
+cat dingo.c38sample.fna # to copy dingo sample data (CTRL + C)
+cat dog.c38sample.fna # to copy dog sample data (CTRL + C)
+nano # open new file
+```
+
+```
+git add combined.c38samples.fna
+git commit -m "combined file commit"
+git push -u origin master
+```
 
 To align the sequences, the MAFFT software was brought into play via the following line:
 
@@ -88,6 +109,12 @@ To align the sequences, the MAFFT software was brought into play via the followi
 ```
 
 The resulting file was then pushed into the repository.
+
+```
+git add mafft.sequences.fna
+git commit -m "alignment sequences commit"
+git push -u origin master
+```
 
 Commit log:
 
