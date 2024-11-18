@@ -88,3 +88,8 @@ To align the sequences, the MAFFT software was brought into play via the followi
 ```
 
 The resulting file was then pushed into the repository.
+
+Commit log:
+
+![image](https://github.com/user-attachments/assets/1f6d18a7-ddae-490e-bce0-d099f4a5cadc)
+
