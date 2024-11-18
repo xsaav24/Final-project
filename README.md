@@ -1,4 +1,4 @@
-# Final-project (saavedra)
+# Final-project (Saavedra)
 The question that this project sought to solve is determining some of the spots where dingo and domesticated dog chromosomal information deviates. As trying to comb through the entire chromosomal sets of both dogs (_Canis lupus familiaris_) and dingoes (_Canis lupus dingo_) would be too tedious to handle, in addition to being highly taxing on the cluster and GitHub, it was better to comb through only one matching chromosome from each species. The initial chromosome of choice was the first one, but attempts to push data on it into GitHub failed due to how large its associated genomic size for both species was, which made the resulting files too large for comfort. Ultimately, the thirty-eighth chromosome was selected for its small size and ease of transferring data into the repository.
 
 The first step was to create a dedicated directory for a new Git repository on the Opuntia cluster:
@@ -80,3 +80,11 @@ dog.c38sample.fna
 ```
 
 Both files were pushed into the GitHub repo. Recalling the step of combining the sequences of different species (or subspecies in this case here) into one file from the ninth lab, both sampled sequences and their headers were combined into one document "combined.c38samples.fna". This document was formed by using the "cat" function on the two separate files and then "nano" to paste the sequences into a new file, which was pushed into the repository.
+
+To align the sequences, the MAFFT software was brought into play via the following line:
+
+```
+./mafft.sif mafft --auto combined.c38samples.fna > mafft.sequences.fna
+```
+
+The resulting file was then pushed into the repository.
