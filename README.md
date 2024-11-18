@@ -66,3 +66,17 @@ Keeping in mind the purpose behind the ninth lab assignment of this semester, it
 ```
 singularity pull --dir $(pwd) mafft.sif https://depot.galaxyproject.org/singularity/mafft:7.525--h031d066_1
 ```
+Because the entire sequences of the target chromosomes were too large for safe use, it was necessary to take only a small sample from the dog and dingo genomes, about 6,800 BP (via copying and pasting the first page of base pairs into MS Word). Below is a pair of images to show what was done:
+
+![Screenshot (291)](https://github.com/user-attachments/assets/3ccc224d-9060-4ddf-aaa7-ffbdc808dace)
+
+![Screenshot (292)](https://github.com/user-attachments/assets/1cc85c74-a467-49e4-9f8d-ce65a6034ba6)
+
+The "less" command was used to safely open the files in the cluster. After that step, both samples were put into new files via "nano". The new files are shown below:
+
+```
+dingo.c38sample.fna
+dog.c38sample.fna
+```
+
+Both files were pushed into the GitHub repo. Recalling the step of combining the sequences of different species (or subspecies in this case here) into one file from the ninth lab, both sampled sequences and their headers were combined into one document "combined.c38samples.fna". This document was formed by using the "cat" function on the two separate files and then "nano" to paste the sequences into a new file, which was pushed into the repository.
