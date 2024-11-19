@@ -1,0 +1,559 @@
+CLUSTAL format alignment by MAFFT (v7.511)
+NC_064280 = Dingo (line 1)
+NC_049259 = Dog (line 2)
+
+NC_064280. CCCC--------------------------------------------------------
+NC_049259. TTCTTCTCGCTTTTTACAGTATTGTTCTTTCTTAttgaatgtaaatattttatgttttta
+           ..*.                                                        
+
+NC_064280. ----TAGAAGATTCAAACGAGCAactgaaatggaagaaaagaaaaattgatagacCCAAA
+NC_049259. ttcatgagagatacaca-gagaagcagaggcagaaatataggcagaaggacaggc-----
+               *...**** ** * *** *.* **....***. * **. *.*  **.**.*     
+
+NC_064280. ATAGCAAGGAATTTGAAAATCAGAggccacct---gggtgctcagtgtgagcatctgctt
+NC_049259. -----------------------aggctccccaaagggaggccgatgtgggactcgatcc
+                                  ****. **.   *** * .*..****.*  ** ....
+
+NC_064280. ttggctcaggtcatgatccagggtcctggaagatcaatgtcccacatcaggctcccgcat
+NC_049259. ttggatcccaggatcaccccctgatct-gaaggcagatgctcaaccactgaccaccaGGT
+           **** **  .  ** *.**   * .** ****.. .***..* **  * *.*. **. .*
+
+NC_064280. GTGCCTCATTCCCCGCTGCCTAtacactctgcctctctgtggggGTTTCGTCgtca----
+NC_049259. GTCTCCCA----------------------------------GGGTTTTGGTTTCAAATC
+           ** .*.**                                  ******.* . ***    
+
+NC_064280. --------tgaatacatgaataaatatttaaaaaataaaaaatataaaaagatgagaaag
+NC_049259. TAGTtagtctgatataagtatgggtcTTCCAGCTTTCTTTGATAT---------------
+                   . .***.* * **...* **. *.   *    .****               
+
+NC_064280. gacccaaataaaatcacaaatgagaaaagagaaataacaaccaaaactagagaaataaaa
+NC_049259. ----CCATTACATTTATAGATG-----------GTTCCATGCCCTACTTTCAATTTCCCG
+               * * ** * *.*.*.***           .*  **  *   ***   .*  *   .
+
+NC_064280. acgtTTATAA-------GTGAAcgttatgaaaaattatatgccagcaacctagaacctgg
+NC_049259. GTGTCTATAGGTCTAATGTGAGCATTGT---AGGCAGCATACCGCTGGATCTGGTTTTTT
+           ..**.****.       ****.*.**.*   *... ..**.**. ... .. *. ..*  
+
+NC_064280. aagaaatagatcaattcctagaaatatataacagagcaaaaatgaaaaaggaagatataA
+NC_049259. AAtaacgattttatttat---------------gagcgagagagagagagagagaggagc
+           ** **  *  *.* ** .               ****.*.*. **.*.**..*** . . 
+
+NC_064280. GAAACTAGAACACACAGATAACCAGCAacgaaattgaatcagcaatcaggaatctcccaa
+NC_049259. agaaattaggcagagagagaagcag---------------------------gctcccca
+           ..** * ...** * *** ** ***                            ***** *
+
+NC_064280. caggag--------atgcttagatcaatagaatagaatggaatgctGAAACAAGATacaa
+NC_049259. caggagcccaatatgggactggatccagattccaggatcataccctgagtcaAGGCAGGA
+           ******        . * .*.**** * *   .**.** . *. ****. ****..* .*
+
+NC_064280. cctgtaactctatgatccattaatcgacaacaaggcagcagggaatatccaatggcacaa
+NC_049259. GGCtcaac---------------------------------------ccctgtgccaccc
+             . .***                                       .** .** ***  
+
+NC_064280. agacagtctcttcaacaaaccctaaccctgaccccaggataagaacaaatggtgttggga
+NC_049259. aggcatcc-------cggaccTGCTTTTTAACCCT-------------------------
+           **.** .*       *..***.   ...*.****.                         
+
+NC_064280. aaaccaggcagccacatgcagaggaatgaaactggaccactttcttacacaatatatata
+NC_049259. --------CTATCatttg------------attggagcattttgtctatcagcattcaga
+                   * ..**. **            *.**** **.*** *.   **..** .* *
+
+NC_064280. aaaaataaattcaaaatggatgaaagacctaaatgtgagacctgaaaccataaaaagaag
+NC_049259. gtgatta------------ttgaaagat---attgTGTTACC------------------
+           . .* **             *******.   * ****  ***                  
+
+NC_064280. aaaagatagacaACAACGTCTTTGAcgttggccattggatcttctttctagatgtgCCTC
+NC_049259. ----GGTAGAGTTGGTGTTTTCTGGTGACGTTCTCTGGTCCTTTGTAGTCTTTGTTGCTT
+               *.****    .   *.*.**..* .* .* .*** .***. *  *   ***  **.
+
+NC_064280. TGagttgagggaaacaaaagcaaaaatactcttgggacttcatcaaattcaaaagcttct
+NC_049259. TGG--------------------------TCTCGTTTTTTCACCCACTAGAAcagtccct
+           **.                          ***.*   .****.* * *  ** **...**
+
+NC_064280. gcaaaatgaaagaaacaaccaacgctaaaaggcaacatacaaaatgaaaggagatatttg
+NC_049259. cttaaa------------------------------------------------------
+            . ***                                                      
+
+NC_064280. taaataacacATCCAATAAacagttagtatgcaaaatacgcaaagcaaataaaaatctca
+NC_049259. ------------------------------------------------------------
+                                                                       
+
+NC_064280. acctcctaaacacaaattatccaactgcagatgggtagaagacatgaatggactttgtct
+NC_049259. --------------------------------------------------------attc
+                                                                   .*..
+
+NC_064280. ctgacaagacatccagatggccaccagacaccgAAAGACACTCCGCGCCACACATCAAAa
+NC_049259. cttactggaC-------TGGTTAAGTGGTCCTGAACGCCTTTATATTTTGCTTGTC----
+           ** ** .***       ***..*   *.. *.*** * * .* ... ...* ..**    
+
+NC_064280. gggaaattcaaatgaaaatcacaataagatgtcacctgacagccgacagaatggctaaaa
+NC_049259. ------------------------------------------------------------
+                                                                       
+
+NC_064280. ttaacaacagaagaaacaacaggtgttgttgaggctatagagaagagggagccccttaca
+NC_049259. -------------------------------------------TGGGacaatctttctct
+                                                       *.*. *..*..*. * 
+
+NC_064280. ctcctggtgggcatgcgaacagtgcagccactgtgaaaaacactgtggagggtcctcaga
+NC_049259. ctccttctatcc---tgaatgacaccattgctgaagaaag-----------------aat
+           *****  *.  *   .***.....* ....*** ..***.                 *. 
+
+NC_064280. tgttaaaaataggggatccctgggtggtacagcggtttggtacctgcctttggcccatgt
+NC_049259. tcatacaaattggggatccctgggtggtgcagcggtttggcgcctgcctttgg-tcatgg
+           *  ** **** *****************.***********..*********** .**** 
+
+NC_064280. cgcgatcctggagacctgggatcgaatccaacATCGGACTAacagtgcacggagcctgct
+NC_049259. cgcgatcctggagacccggga-cgaatcccacgtcgggctcccggtgcatggagcct-tt
+           ****************.**** ******* **.****.**  *.*****.******* .*
+
+NC_064280. tctccctctgcctgtgtctctgcatctctc-------------tgtgactatcataaaaa
+NC_049259. tcccctgctgcctgtgtctc-gcctctctctctctctctctgatgtgactatcataaata
+           **.**. ************* ** ******             *************** *
+
+NC_064280. aaatttaaaaagaagttaaaaatagcgctaccctacgattccaaaattgcagagctaggt
+NC_049259. aa---taaaaaaaattaaaagaattcatacaaattggactccaaaa--------------
+           **   ******.** * ***.*   *..     *  **.*******              
+
+NC_064280. atttaccccgaggaTACAAAAGTCTTTTAGTAGATTCTAATTAGGACACGCAGAccagtg
+NC_049259. ---------aaagaaatttaaaacataaaataaatttttgct------------------
+                    .*.** *.  **. * *  *.**.***.* ..*                  
+
+NC_064280. tttgtagcagcgttatcaacaacagccaaactgtggatacagcccagatgtccatcgact
+NC_049259. ----------tatgattgaggaaaatggcatttaggaggaaaaccagaagctgA------
+                     ..* **..* .* *.. . *.*  *** . *. ***** *.. *      
+
+NC_064280. gatgaatgggcagagacgatgtggtaaatatacccACTGCGACATCACTCGGCCATCAGA
+NC_049259. ----AACGGAGGAGGACAG---------------------------ATTTCACCATCCGT
+               **.**. ...***..                           *.*. .***** * 
+
+NC_064280. AGCGATGAAaggaagccatttacaatgatgtgggagaagtggaaaggactta--------
+NC_049259. AG--------------CCTTCACAGCAACCTGGTATCCTTTCCTAGGATTGGCCCCCCCT
+           **              * **.***...*. *** *    *    ****.* .        
+
+NC_064280. ----------------tgcttaatgaactcagtcagtcagagaaagatatgaaataccat
+NC_049259. TCCTGACCCTCTGCGCTCCTTGTTGAAACCCAGCAGTCACATCCGTAC-----CTCCCAC
+                           * ***. **** .* . ****** *   . *.      * ***.
+
+NC_064280. acaattgcattcg-----------------cATGTGAACTTTAAGAAACCagacaaactg
+NC_049259. ACCTCTGCAGTCATGCTTTATACCGCCTTCCATGTATCCTATTGGGGACCACAGCGTC--
+           **  .**** **.                 *****.  ** * .*..**** *  . *  
+
+NC_064280. gcaaaggggcagaggggggggatgagagaagcaaacaaaaaaacacactcttaaccacag
+NC_049259. ------------------------------------------------------GTGTAT
+                                                                  ...* 
+
+NC_064280. agaatcagctaataaataccagaggaaggtgagggagatggggaatcag-----------
+NC_049259. GGAATCATCCGAAAGCT------------TGACAACATTGGGGATTCTgacttttgttgg
+           .****** *..* *. *            *** .. . ****** ** *           
+
+NC_064280. ----gggatggggatagtggagggcacctgtggccagtac---caggcgttgtaaCCAAG
+NC_049259. ttttggggtgtgtgt-gtgtctatcacatgCAGCTATCACATGCAGCTATCGGATCCTCT
+               ***.** * .* ***   . *** **..**.* .**   *** ..*.* * **   
+
+NC_064280. AGTTGAgtcact---atgtggtaaacctgaaactatatcatactgtgtttacaaacagga
+NC_049259. GGCTGGGTCACCCCGATGCCAAATGGTTGGCACAATATCATTTCTGGTGCTGGAGCTGGG
+           .*.**.*****.   ***. . * . .**. ** ******* ..  ** .  .*.* **.
+
+NC_064280. attcaagtaaaactttaaaagaataattggtagtattgatgaaacatgtacgcactagag
+NC_049259. CGGCTAGCCAGGC---------ACTCCTGGCCGACCCGGTGCTTCGCTTGTGCAGT-GAC
+              * **. *..*         *.  .***. *  ..*.**   *.. *..*** * ** 
+
+NC_064280. ataaaatcagaaaggcaactgaaaatccaaataaagagtctttagagccacaaatcccct
+NC_049259. ATTCCACTGGAGGGGCAGCTGAG-----------------CTGGAAGGTCCAGCTCGGCC
+           **   *...**..****.****.                 .* ..** . **. **  *.
+
+NC_064280. cctagctcagctcgggaga---agcctgcca-------------------tgtctattct
+NC_049259. ACATTCTCATGTCCGGAAGTGTGGCCCGCCAATGGcagctgcttctcttctccccgatgc
+            *   ****  ** ***..   .***.****                   * .*.. * .
+
+NC_064280. gACACCATCaaaagcctggattttgattct------ctggggaggccactgacttggtgg
+NC_049259. ctctccagcagggagccagaactCGGGGCCGCCATGCTGGGGAGCTCAT-------GAGG
+             * *** **.... *..** .*.*.  *.      ******** .**.       * **
+
+NC_064280. agtcaggctatctttgaacccaaaacctaaatagagtgcataaaactaaacggcccaaga
+NC_049259. AGCTGGGT----------------------GCACATGGCGGGGAGCCCAGGGGCTGCCTg
+           **...**.                      ..* *  **. ..*.*. *. ***.    .
+
+NC_064280. tgctaggagtcccagtgcaggcacatgccaagtcccaaactctaaccatacacagacata
+NC_049259. tgtggggagttggggtgaggATGGGGCTGGTTTCCTCAGGTCT-----------------
+           **. .*****.  .*** .*... .  . .  ***. *. ***                 
+
+NC_064280. accctaaccctacacttaattgtaatgttaacctaacccttaaacaagacccatcactaa
+NC_049259. --------CCTGTGCT--------------GCCTGGCCTTCAGGCCGAGCCCATGCTCAC
+                   ***...**              .***..**.*.*..* ...*****  ..* 
+
+NC_064280. tcgaaaaccaaacac---------------------------------------aaaccc
+NC_049259. CCAGCCCCTACTCACTTCGGGCAAGGAGGGTGCCCTCCACACTGCTGGTGTGAGAGATCC
+           .*..   *.*  ***                                       *.*.**
+
+NC_064280. caagaccaaaacacattca--ctgaaccttcctgccaaccctcaccc--------taact
+NC_049259. CCGCACCACAAGGTGTGCAGGCTGAGTCCACCTGGTGAGGGTGGCCCAGGTGTCGTGAGC
+           * . **** ** ...* **  ****..*. **** ..*   * .***        *.* .
+
+NC_064280. cctaaatgCAGG-----TGCACCTAAACTTAGGTTTCCTTAACCCTGACCTCTACATTAA
+NC_049259. Tgcaagtgtgggacccaggaaatttaacaaaaatctcctacccctggacaagcagagcag
+           . .**.**..**      * * .* ***  *..*.****   **. ***   .* * .*.
+
+NC_064280. ATCTAACAcgaaccctaacctctaaccctatccttaaaataaggtattcaaatcctattc
+NC_049259. gactgattccattttatgctacacctgccacctccaggatgacccccacatgacctgctt
+           . **.*. * * ...  .*. *   . *.*.*...*..**.*  . . ** . ***..*.
+
+NC_064280. ctaaccttaacctgtaccctaaccctaaccctctaatactaatcctatctcataccgCAA
+NC_049259. atggCTTAAGGTGCTGCCC------------------------CCCCCCATAGTCAGGAG
+            *..*.* *. .  *.***                        **. .* .*  * * *.
+
+NC_064280. ACTGTACCCTAAGCCATACCCTAAAGCCAACCCCTAACCCACTCCCTAACCCTATATCTt
+NC_049259. GCCGCTgtgcacaccctaatcggaaatcagctcata----acaatgtaaccctgctttgt
+           .*.*.  . .* .** ** .* .**..**.*.* **    **  . *******.. *. *
+
+NC_064280. gcccttttccaaaaccgtaccctgaccctgacct-----------------gaccctaac
+NC_049259. gccc---cccAAAACTGCATGCCCATTCTGAACTTctcctggggagggagaggcttcTGT
+           ****   .*******.*.*. *. *..**** **                 *.*... ..
+
+NC_064280. cctaaaccctaaccaaacactaacac----------------------------------
+NC_049259. CCTTTAGGGGAGGGAAAGAATGACACGGGTTGGGGGGGTCAgggtgctggagtcccccac
+           ***  *    *.  *** * *.****                                  
+
+NC_064280. ---------------taaccctagccctaacccctatcctaatcctaaccctcgccctaa
+NC_049259. ctgggagcatgtGTGGAATCTGGGTGGGGGCATATGTCCTGA----------GGTTTCAG
+                           **.*. .*.   ..* . *.****.*           *....*.
+
+NC_064280. ccctaaacctagccct---aactttaactctaacccttaactctaacccctaactctaac
+NC_049259. CCTGAGAGacggttctgaggacagcagagctgacctggaCCTGCAGCTCATGGCTCCTGC
+           **. *.*  ..*..**   .**  .*.  **.***.  * ** .*.*.* *..***. .*
+
+NC_064280. ccctaa--ccataactcacaccctaacccctaaccctaactgcaaacctaagcccaaccc
+NC_049259. AGCTGGGTCCctgcagggcagctggacccccggcc---attgggctcccag---------
+             **..  ** *.    .** *. .*****...**   *.** .  **.*.         
+
+NC_064280. taactctaaccataaccctatccccaactcct--aacctcctgccctc------------
+NC_049259. ------------------tggccccagcacctggagcagcctgcctcctggtgtgTGCGG
+                             *. *****.* ***  *.*  ******..*            
+
+NC_064280. ----atccctagagcctaaaccctaaccctaacactaaatccTGTCCCTTACCCTAACCA
+NC_049259. GTGGGGCCCCACCGGCCTactcctgctctccccaccctggggtgtcCCAGGATCCAAAGG
+               . ***.*  * *. * .***. .*..  ***.  .   ******  . .*.**  .
+
+NC_064280. CCATCCTAACT------CTTAACACTGACCAATACCCTTATGCCTCACCTAACCTCTAAT
+NC_049259. GCACTCTAGGTGagcgacctggatctgtggggtACGCCCAGGGCCCAAGAGGCC----AC
+            **..***. *      *.*..  ***   ..*** *..* * *.**   ..**    *.
+
+NC_064280. tcgtaaccataagcataatcactaacccctaacatctaacctaaggcTAACCAccaactt
+NC_049259. ATCCAGCTGTGAGAGGGCTCACTCAGCCTGGGGCCAGAAtccagggctggcca-------
+            . .*.*..*.** . . ***** * **. ..  .  **.*.*.****..***       
+
+NC_064280. cctcccctcccctaaccCTACCATTCATTATACCTTTTCACTTACACTGTGGTTCTGAGG
+NC_049259. -------------------------------------------------gggccatgggg
+                                                             **.. **.**
+
+NC_064280. AGTTCCTTCTGA------TATGGACGGGGCCCCCAATGGCTC------CTCCAGATTCCT
+NC_049259. ggctggatcccattagtCTTTGTGTTGGGCCTGGAGGGGCTCAAATCAACTCAGCCACCT
+           .*.*   **. *      * ** .. *****.  *. *****       ..*** . ***
+
+NC_064280. Ccaag---gggtcctgaggaagccgggctcctgtgagtgTGGTCAtggccccacgtg---
+NC_049259. CAGAGCCCGGGGCCAGGTCAGCCCAGGTCCCTATGGgttaggggctggtgtcctgtgcag
+           * .**   *** ** *.  *. **.**..***.**.**  **   ***. .* .***   
+
+NC_064280. ------------ttcctgagtcatagtcagcgggtcctgaggacgctgggtctcctgtca
+NC_049259. gGTGTGCTGTcctccaggagggacagtgggtgGAGACAGGGAACGGTGCATCCTCTGCAC
+                       *.*  ***  *.*** .*.**.  * *.*.*** ** .**..***.  
+
+NC_064280. ctgtggacta-----------------------tgcctcacatcctctggaagcctcaca
+NC_049259. CACTCACCTGCACCCACCCTGTCAGGGGCTCcctgtctttcctcctccctgcaaCCCCTG
+           *  * . **.                       **.**. * *****.  . . *.* ..
+
+NC_064280. gcaggtcctcaggaagccgggggctc---------------------------ctgtcag
+NC_049259. GGTACTCTTTGAGACACCCGGGCTTCTGATGGGATCAGGGTATGCAGAGAACGCCgggag
+           *  . **.*...** .** *** .**                           *.*  **
+
+NC_064280. cctggacatggccccacgtcccccagaaaactcaccgcaggtcct---------------
+NC_049259. gctgagcatgtcc------cacagggggcaCCTGCACCTGGTCCTTGCTGGGGGTAAATG
+            ***..**** **      * *  .*.. **...*  * ******               
+
+NC_064280. ------------------------------------------------------------
+NC_049259. GTTTGGGGGTGGATGGTGTGTGGGGCAGGGGTATGATTGTGGTGGAGTGTGGGGGATGGT
+                                                                       
+
+NC_064280. ------------------------------------------------------------
+NC_049259. GTAGGGGGATGGTGTTGGGGTATAGTGTGGGTTGGGTTTGTGTGGGGCTGTGTGGGTGTG
+                                                                       
+
+NC_064280. --gaggaggctgtgggctcctgtca-----------------------------------
+NC_049259. AGGGGGATGGTGTAGGTGGATGCCATTGGGAATGATGATGTTAGGGGGGTGGAGTAGGAG
+             *.*** * ***.**.   **.**                                   
+
+NC_064280. --------------------------------gcatacaCGCAGCCCCTTATGtccc---
+NC_049259. TGGGGGAATGAGGGGGATGTCGTGGGGGGCCTGCGGACACAGGGTATCTCCTTCCCCTAA
+                                           **. ****. .*. .**. * .***   
+
+NC_064280. gaagccaaagtgcaggtcctgaggaagaCAGGGTTCCTGTCAGCATTGACGTggtcccac
+NC_049259. GATGCAGAAGGAGACTTCTACAGTTAAAGGCgaccccagtctggggt-ttgTTGTGACAC
+           ** ** .*** . *  **.  **  *.* . *...** *** * . *  .** **  ***
+
+NC_064280. attttcctcaagcctcaccat----------aaaacctgaggaggctgggggc-------
+NC_049259. CTTCCCCTGGGGCACGGTTGTGGTCATTGCAGGTGTCTGGCTGGACCGGGGGCATTATCT
+            **..*** ..** . ....*          .. ..***.  .*.*.******       
+
+NC_064280. -----tcctgtcagcatggacgt-----gGCCTCAAAGCTTCCCAAACC-----------
+NC_049259. GGGGGTCATCATAATATGTAtgctttcaaatttcaaattgtctcaaattaaatgcataga
+                ** *  .*..*** *.*.     ....***** . **.****..           
+
+NC_064280. ---------TACACAGTgtgtcctgaggaggctggagactcctGTCATTGTGG---ATGG
+NC_049259. atttagaaatatataaagtaccGAGAGTGGG-----------TGTCACTCTGACCCATCA
+                    **.*.*. **..*  *** .**           *****.* **.   ** .
+
+NC_064280. GGCACTCACAgttt----------------------------------------tcttag
+NC_049259. GACCCTCATGGGATCGATGTGTGTCCTGCTCCAGCCGCGGCCATGCCGCCTGGCCCCCAG
+           *.* ****..*  *                                        .*..**
+
+NC_064280. gcctcaccacaggccctgacaaagctggggtcttct----gtccacaTGGACGCATCCAC
+NC_049259. GTCCGGTCCCTGCCCcccacatcccccaccccatcccctgcttctCATGGGGCCATCCTT
+           *.*. ..* * * ***. ***   *. .  .* **.     *.* *****.  ***** .
+
+NC_064280. ATATTT-------------CCCCAAGTCTACAccaggggtcctgaggaagtcagCGTCCT
+NC_049259. ATCCCTTTTGGTGTTCAGCTCCCATGGCAACCCCTGGAGGCCC-----------CATCCT
+           ** ..*             .**** * * ** ** **.* **.           *.****
+
+NC_064280. GTTG------TGTCCGTGTGGCC-----------------------CCAAGTCCTCCTGA
+NC_049259. ACTGGCCACTCATCCCTGAGGCCCGGGGGGTGGGCACGGGGGTCATCCCAATCACCCTAC
+           ..**      ..*** ** ****                       ** *.** .***. 
+
+NC_064280. AGCGTAGCCGAGGGTTCgaggaggccagggctcctgtaaccatgaatg--cggccccccg
+NC_049259. CATTGAGCAGTGTGTTGTTGGCTGCCGTTGCTCCCCCTGGCACAGAGGCCCTGTTTTCCC
+            ..  *** * * ***   **  ***.  *****. . . **...* *  * *....** 
+
+NC_064280. cttccagaagcctcaacttatgtcctgaggggcccGGGAACTCCTGCAAGAGTGAAC---
+NC_049259. TACCCAGAAGC------------CCCCGGGGCCCCAAAGCCTCCTGTACAAGCAGCCTCA
+           . .********            **. .*** ***.... ******.* .**... *   
+
+NC_064280. ------------GCGtcgccacatcttcctgaagcctccccacaGTTCCTGAGGCTGCTC
+NC_049259. CCCGACCCCCTAGCAGTACTAAAACATTATGTGGCTGCCCAACA--TCCTGTTGACGTCC
+                       **. ..*.* * * *. ** .**. *** ***  *****  * .*..*
+
+NC_064280. TGGGGCGCCT-----GTCAGCGTGGATGAgggcccacaatttcctgaaacCTCCCCGCCA
+NC_049259. AGGTCTACTTTCGTGATGTCCCTGGAGAAGAAAGGGCATCCTCCCTCATTTCCTGTGGGA
+            **  ..*.*     .*   * **** .**..   .** ..***.  * ...*. .*  *
+
+NC_064280. GTCCTGAGGTGCTCAGGGCTCCTGTCACCGTGAAtgtgggcccacatcttcctgaagcct
+NC_049259. AAACCAGGGAG----GAGGAACAGGCGCCAGGGATACAGACCCCGACCTGTCACGAGCTG
+           .  *...** *    *.*   * * *.**. *.**...*.***  *.** .*  .***. 
+
+NC_064280. ccccgcggggcctgaggcggcccaggggctcctgtcagggtgGATGCGGGCGCACATCTT
+NC_049259. CCAtgttgggc---agggagccctggggccacaaTGGGAGTGTGT-CCTGTggaaacctc
+           ** .*. ****   *** .**** *****. * .* .*.*** .* *  *.* * *.**.
+
+NC_064280. CCTAAAGCCTCAacgcgggtcctgaggagaccgTGGTTCCTGTC----------------
+NC_049259. cttccttcctc--tgggagtCCAGGGATGACGGGAGTACCCATCCGTGCCCGTGGGACCT
+           *.*    ****  .* *.**** *.*. *** * .** **..**                
+
+NC_064280. ----------------------------AGCATGAATATGGCCCAATTTTCCCCTG----
+NC_049259. GTGTGACGGCTTGTGCCCAGCTGTTGTGGGCGGGGAGGTGACTGAGTTTCACCCTGCGTG
+                                       .**. *.* .**.*. *.***. *****    
+
+NC_064280. ----------------------------AAgactccccgcgggtcctgag---gaggctg
+NC_049259. GGAGGGGATAGGGGTTCAGCCAAGGTGAGAGGGGACATGggagtgttgtgcccaagattg
+                                       .**.   * .* *.** .** *   .**..**
+
+NC_064280. cagctcaTCAGCATAGATGGGTCCCCATGTCTTctgcaggc-------------ctcccc
+NC_049259. cgaatccgagaaaccactaaGTATctgacaccaatgcaaacacacaagTGTTGATTTCCA
+           *.. **   .. *. . *..** .*..   *.  ****..*             .*.** 
+
+NC_064280. agcacaggctggc-tcctgttagtgcaggcagaggaggcctactgcaCATGCGTGCCCCa
+NC_049259. AACTCGAGCTTGCGTCCAAATACtcccaacacagcgga------gcagagacttggaccc
+           *.* *..*** ** *** . ** * * ..** ** .*.      *** * .* **  ** 
+
+NC_064280. tgggaggggcctgggctcaggcgccccctgcgggatgcTCT---GGTGCTACAGGAGACT
+NC_049259. cgaggtgggttttagcttag-----ttttaagggcttgtCTTGGGGTCCTACagagggct
+           .*.*. ***..* .***.**     ...*. *** *  ***   *** ******..*.**
+
+NC_064280. GTGCAGGAGACAGCAGGTGCTCTA------------------------------------
+NC_049259. g---------gagcaattcctcaagttccgttgacattttgatatggggccttcaagggt
+           *          ****. * *** *                                    
+
+NC_064280. --tgggccccacctgcctcc----------tttcaggcTCCAGCTGGGGC----------
+NC_049259. aTTGAGCTCTGCTCTCATTCTAATAGACGGTTCCAGCCCTTGGCATGGGCTTAGTTTTGA
+             **.**.*..*.. * *.*          **.*** *....**  ****          
+
+NC_064280. --------TGTTAGCTTCggaaacatctcactgaa-------------------------
+NC_049259. TTCaattgtggggctttctaggacattaagctgtaaacttttgtttttttcctgtaactg
+                   **  . .*** ...****.  .*** *                         
+
+NC_064280. aagGAGCACAACACCCAGcttcccagaaatacttaaggacaaggaattggagcccacagg
+NC_049259. aagcaatgtaaatttcagctcttc-----ttcacaggggcctgggatggctgggcGTGTG
+           *** *....**  ..*****...*     * * .*.**.*  **.** *  *  *... *
+
+NC_064280. ---acgtgaaatgaaatgtggaccagacttttaccacgtcctgcaaaactcactcaaccg
+NC_049259. CTAATGCTGAATTTAAattggaatggcctt----------------aattttctcagcct
+              *.*. .***  **  **** ..* ***                **.*. ****.** 
+
+NC_064280. tCTTCCACTGTGGGCAGGACCGCGGGTTGGTGCAGCCATCCTGGAAACAGAATGGAGGcc
+NC_049259. ccttgCTTCCTGTCCCACCTATCtagctccttcccccttccc----------cagagctC
+           .*** * .. **  * .  .  * .*.*  * *  ** ***.          ..*** .*
+
+NC_064280. cctcaggaag--ttacaaata--------gagccgccctgtgaccagcaggtgaacggcc
+NC_049259. CTAAGAGAGCAATTGCAAATAACCTCAGCGTGGCATCCTGT----------------GTT
+           *.  ..**.   **.******        * * *..*****                *..
+
+NC_064280. tggagctcactccgaagatacagatgcagtgagacttgggacacctgcacccctatgtcc
+NC_049259. GGGAAACAGGCCCAGTGATTTGGGATCAGGAAGACCTGGAGCACGGGCGTCCCAGCTGT-
+            ***. . . .**.. *** ..*.  *** .****.***..***  **..*** ..  . 
+
+NC_064280. ACAGCAGctgggtccacagtagccacagtgtgggaggagcctcggtacCCTCtgcca---
+NC_049259. ---GCAGCGGGATTCGAAGCTGC------------AGAATCTTATTCCCTGAGGCTAtct
+              ***** **.*.*. **. **            .**..**.. * **.   **.*   
+
+NC_064280. -gatgatggataaagaggatgggaga-----------tagatgatggtcatagagagagg
+NC_049259. tgacaactgactttgtacatagaaaagctctcctttgtctttaaaagttGAGGAGCGAGT
+            **..*. **.   * . **.*.*.*           *   *.* .**.. .*** *** 
+
+NC_064280. aatgg-----------------------tactcag----------------------cta
+NC_049259. CATAGAGTTTTATCTCTGCAcatctgattgctcagattccaatctgagatgtatttcctg
+            **.*                       *.*****                      **.
+
+NC_064280. tcaaagagaaggaaatatttccatttgcaataatgtggatagaactaaagggatcatgtt
+NC_049259. ttaataaggataatttactaCTATCTGTagtactatggttaaaa----------tattct
+           *.** .**.* .*  **.* *.**.**.*.** *.*** **.**          .** .*
+
+NC_064280. aagtgaagtaagtcactcgggaaagagaatgaccgtgtggtttcattcataggtgga--a
+NC_049259. gacacaagtaattcA-----GAAGGAAgcgtttctcatctctttcttcacagctcagtca
+           .*   ****** ***     ***.**..    .* ..*  .**. ****.** * ..  *
+
+NC_064280. ttcaagaagcaaagcagatgaacaactgtgaagggaaggaaaaacaaataagatgaaaac
+NC_049259. ctca--------------------------------------------------------
+           .***                                                        
+
+NC_064280. agatgcaggaaatacagatccttaatgataggaaacaaactgagggtagctGGAGGGGGC
+NC_049259. ----tcaggaaatgc--atctttatggatttggaatgaactgaga---------------
+                ********.*  ***.***  ***  *.**..*******.               
+
+NC_064280. AGATAACAGGGgacaggcatgaaggagggcacgtgatgtctcgagcactgctgttatctc
+NC_049259. ----------------------------------gacattattaccaatggtcctattat
+                                             **..*. . * ** ** * .***. .
+
+NC_064280. caactgatgaatccct-----gaattcttcct---------ctgaaagtataatacacta
+NC_049259. tatgtgaaggattcttccctgagattcttcccctatttcaactgacactgaaacactctg
+           .*  *** *.**.*.*     ..********.         **** * *. **.** **.
+
+NC_064280. tacgttaattaattgggtttaaattaagttaaaaaaaatcagttctttcagagcacattt
+NC_049259. aactc---tttggaagacaaatgtcaaggaaataaatgttatgcattgttaattttattt
+            ** .   ** .  .*..  * .*.***  ** *** .*.*  . ** . .* . .****
+
+NC_064280. ccttctggattctctattttgctCATTCAGCTTA-----------------TGCCGGGAC
+NC_049259. --ttttattttttttcttttatttatttatgatagtcacagagagagagagaggcagaga
+             **.*.  **.*.* ****..*.***.*   **                  * *.*.. 
+
+NC_064280. CACCCCCCGTGGGTCTGGTTGGTCTACGTAGCTCCACGCCTCATCCTTGGCCCAGCATAC
+NC_049259. cacaggcagagggagaagcag---------gctccatg---caccgcgagcccgacgtgg
+           ***   * * ***   .*. *         ******.*   **.* . .****..*.*. 
+
+NC_064280. GGCTAGAACTCAGaacccctgagatcaggaccggaggtgaggtcaggagtcggatgctta
+NC_049259. gactcgatcccag-gtctccaggattgtgccctgggccaaaggcaggcgccaaa------
+           *.** ** *.*** ..*.*...***.. * ** *.* ..*.* **** *.*..*      
+
+NC_064280. accaacggagccagccaggagcctgagaaccacactgct-------------ttatctct
+NC_049259. --ccgctacgccacccagggatc------ccccattgctaattttaaatgcacttgcagT
+             * .* . **** *****...*      ** **.****             .*  *  *
+
+NC_064280. gtgacatcttttgaaataggaaagtgctgcgtcccactctgtcatgc-ttctccaatact
+NC_049259. ATGGTGTCTATTatactagaattatttttatctgatttttgctatttattatccgttcct
+           .**...*** **. * ***.*  .* .*   ..   .*.**..** . ** ***. * **
+
+NC_064280. gatttgctgtccggggtcatttgtTGTAGGGGTTGgatgttatgggtttttttttcctat
+NC_049259. gcttttcaggttgagg--aggcattatacgtgttcataagtgttgttctttccttctgat
+           * *** * * ..*.**  *  ..**.** * *** .  . *.* * *.***..***. **
+
+NC_064280. ttctaac-----atctgccaccat-----gattttgataggaatgacattgaaactg---
+NC_049259. ctaaaattcttactttgtttccatcaaaggaactctttaagaataaggcaaaagttaatt
+           .*  **.      *.**.. ****     ** .*.  **.****.* .. .**..*.   
+
+NC_064280. -----------------------------------agggtggcttca-----ggaactgc
+NC_049259. caactattctttttttttttaattcaactattcttaaaatgtcttcacacttggatcctg
+                                              *...** *****     *** *.  
+
+NC_064280. ggacatt--------ttcacaagatgaggctcccaccccacaagcccaggacggcctccc
+NC_049259. attcatttaagtcaattttcaaagtaaatcttatttattaggaaaaaaacaaagatttat
+           .  ****        **. ***..*.*. **. . . ..* .*.   *. * .* .*. .
+
+NC_064280. aga---------------gcctggtttggctcagtgcacaagtcttgtgctcctttggtt
+NC_049259. agggaaattgagaagattGTATAGTGCATTCACATGCACTGGCACTCTatttctccaatt
+           **.               *. *.** .. ..  .***** .*. .* *..*.**....**
+
+NC_064280. cagtctcattatttattttccttgatgctcctgagaagggcgtca---------------
+NC_049259. -------attgataTCTTATATTAGTACGGTACAGATATgagctaatgaatcaatattaa
+                  ***. *  .** . **..*.*  .  *** . * *..*               
+
+NC_064280. ----------------------catccttcatttcc--ttcctgagtgctcattgtcagg
+NC_049259. aatagtcacattaaccaaagaccatactttattcacatttccttagtttttgct------
+                                 *** ***.***. *  ***** *** .*...*      
+
+NC_064280. acacagcaaggctactctgctctg---tagggtcagtttgtgtcccgtgACTTTTGAACT
+NC_049259. --------aagttaCCATCCCTCGTATTACATTCCATTTGTCCTCctgttttcttaggct
+                   *.*.***. * *...*   ** . ** .***** ..**    .*.**...**
+
+NC_064280. CACTCCTTAATTCTAACAGGATTTGGTGGAGGCTCTCGGGTTTCTCGTT--TCTAGTACC
+NC_049259. --cctctggattgtgacagtcttt----cagcctttcctttttgttgttgaactggaaca
+             *..** .*** *.****  ***     ** **.**   *** *.***   **.* ** 
+
+NC_064280. TCTTCTTCAgcatatagggacagtgtgacgtcccccttccaggtgtggaacctttgctgt
+NC_049259. cttt-----gagaaggagagtattttgaaaaatttccctcagttgggacatgtctgtcgt
+           ..**     * . * ..*...* * *** .  ...*...*** ** *. *. *.**..**
+
+NC_064280. ttacagcttaatgtcctagaaagccccacaattgaatcaaaactgagcccaggccaaggg
+NC_049259. tta--------------------tctcatgattgaactgtttttg----tggattatata
+           ***                    .*.**..******...   .**    ..*...* . .
+
+NC_064280. caggaa--------------gcccatattagaatgagaacaga-----------------
+NC_049259. cagagatatactgccatttttattatatcatataaaggatagatactatcacatgattta
+           ***..*                ..****.* *  .**.*.***                 
+
+NC_064280. ---------------gttcaattcccttg--aagg-----------------ccccatat
+NC_049259. tcagtcttggtaTTGATCTGATCATCTTGCTAAGGTAGTGTTTGTCAGCTTTCTCCGTAG
+                          .*...**. .****  ****                 *.**.** 
+
+NC_064280. caaa----------------atgtaaacagaacttgaggaattgcttctgcccttctgga
+NC_049259. TAAACtgattcatttttgttatttttattattattagtgtattatcattattattttagg
+           .***                ** *  *. .   **.. * ***... .*... **.*.*.
+
+NC_064280. ggtcccggagaccagcccttaaaactaagctaaaa---------cccacctcagggtcca
+NC_049259. tttttcata-atatatttttagaaggaaGTTACTACGTGTATTGCACACATAAGAGTGGG
+             *..*. * *.  ....***.**  ***.**  *         * *** * **.**  .
+
+NC_064280. agtccctgctctgctgtgtcggatATACTTGGATACAAGatcgagcttgtaaataatccc
+NC_049259. AAGCTATGCTC-----------ATGAACTTGACGGTGGAAT---GTCTgcacaaattctt
+           *. *. *****           **. *****.  .....**   *..**.* * * **..
+
+NC_064280. tcgtgtgtttgcat-----tggtgtcggcttcttggtggtttctcatattcgcaatcttg
+NC_049259. tgaaattcttctacatgggagatttctcttccctctaggtttgtttgattttttttcaaa
+           * . .* .** .*.      *.* **  .*.*.*   ***** *.  ***. .  **  .
+
+NC_064280. ggcacaacagtctgaggtaaaaaacaaaaccaaagaaactcGGACGCgggcagagtgaaa
+NC_049259. gatgtcatttatttatatgagagagagagaggagaaaaagcatgagcgagaggggtagag
+           *.... *.   .* * .*.*.*.* *.*.  .*..***  *. . ***.* .*.**..*.
+
+NC_064280. gca-----------gggttctgagagaagcggcagagacccgggggcttggcgGCTCCTT
+NC_049259. ggatagggtgaagcaggttccatgctgaacAG-----------------GGAGACTGCCT
+           * *           .*****.. *  .*.*.*                 ** *.** *.*
+
+NC_064280. TGGTTCCTGCAGGCCTGCAGACTGGGGGGCGGAatc--------ctcagcc---------
+NC_049259. TgggacctggatcatgatctagcctaaggcagaagcttaactaactCAGCCACCAAGGtg
+           ***  **** *   . ..  * .  ..***.*** *        *******         
+
+NC_064280. ---------------------------------------------------ccagagcca
+NC_049259. ccactctttctttttttaataataaatttatttttattggtgttcaatttgccaaatata
+                                                              ***.*  .*
+
+NC_064280. gaggacccagtgTCCCCACC----CGCATCCCCCCATCAGCGCcgagtctcagggagcag
+NC_049259. GAAGACACCCAGTTCCCATCCCgtctagtgcccccctcagtgcc----------------
+           **.*** *   **.****.*    *  .* ***** ****.***                
+
+NC_064280. cacagcgccgCCCGCTGGAGCCCAGAGATGCTGACGCCCACCCCGTCTCTGATCCCCGCA
+NC_049259. -----cgtcacccattcatcctcaa------ccctgccctcctcccattcaatcgcccct
+                **.*.***..* .  *.**.      .  .**** **.* . *...*** ** * 
+
+NC_064280. GGTGCATatcccagg-----------------------------cagatgtgcacctgac
+NC_049259. agttcatttccagagttagAAGACTTTAtgttctgcctccttttctgatatttcccacac
+           .** *** *** ..*                             * ***.* . **  **
+
+NC_064280. aatctGCACCACatcccatccccagaccc
+NC_049259. attt----ctactcctttcccttatattc
+           * *.    *.** .*.. .**..* *..*
