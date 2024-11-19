@@ -120,3 +120,5 @@ Commit log:
 
 ![image](https://github.com/user-attachments/assets/1f6d18a7-ddae-490e-bce0-d099f4a5cadc)
 
+
+Later, a CLUSTAL format of the MAFFT alignment sequences was derived via an online version of MAFFT.
